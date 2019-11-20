@@ -1,5 +1,12 @@
-# workforce-management-drunk-uncles
-workforce-management-drunk-uncles created by GitHub Classroom
+# Bangazon Workforce Management
+Group Name - workforce-management-drunk-uncles
+
+Group Participants:
+Allison Patton
+Noah Barfield
+Michael Stiles
+Bennett Foster
+Carl Barringer
 
 Description: Bangazon Workforce Management is an ASP.NET MVC Web Application built using Visual Studio on Windows and uses SQL Server as the database engine. This application was designed to manage internal resources for a fictional e-commerce company called Bangazon. The application will allow users to create, view, edit and/or delete Employees, Training Programs, Departments, and Computers.
 
