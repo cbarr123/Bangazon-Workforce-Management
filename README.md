@@ -1,5 +1,5 @@
 # Bangazon Workforce Management
-##Group Name - workforce-management-drunk-uncles
+## Group Name - workforce-management-drunk-uncles
 
 ## Group Participants:
 - Allison Patton
