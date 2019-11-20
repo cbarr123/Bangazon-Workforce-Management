@@ -2,11 +2,11 @@
 ##Group Name - workforce-management-drunk-uncles
 
 ## Group Participants:
--Allison Patton
--Noah Barfield
--Michael Stiles
--Bennett Foster
--Carl Barringer
+- Allison Patton
+- Noah Barfield
+- Michael Stiles
+- Bennett Foster
+- Carl Barringer
 
 Original Repository Link: https://github.com/nss-day-cohort-34/Bangazon-workforce-management
 
