@@ -13,10 +13,10 @@
 Original Repository Link: https://github.com/nss-day-cohort-34/Bangazon-workforce-management
 
 ## Description
-Bangazon Workforce Management is an ASP.NET MVC Web Application built using Visual Studio on Windows OS. Bangazon Workforce Management utilizes Microsoft SQL as the database. This application was designed to manage internal resources for a fictional e-commerce company called Bangazon. The application will allow users to create, view, edit and/or delete Employees, Training Programs, Departments, and Computers.
+Bangazon Workforce Management is an ASP.NET MVC Web Application built using Visual Studio on Windows OS. Bangazon Workforce Management utilizes Microsoft SQL as the database. This application was designed to manage internal resources for a fictional e-commerce company called Bangazon. The application provides users the ability to create, view, edit and/or delete Employees, Training Programs, Departments, and Computers.
 
-## Project Setup 
-1) Create new SQL server Database and name it BangazonWorkforce
-2) Run a new query and copy & paste the script at the end of this README file
-3) Run the application
-
+## Database Setup 
+1) Within Visual Studio Create new SQL server Database and name it BangazonWorkforce
+2) Open a query window and copy & paste the script in LoadFile stored in this repositiory.
+3) The LoadFile script will build the database tables and populate some initial information 
+4) Run the application
